@@ -1,6 +1,6 @@
 # Sistema de Agendamento - Testes Automatizados
 
-## 👥 Autoras
+## 👥 Autores
 
 Heitor Romero da Rocha (heitxrr)	RM558301
 Caroline Souza do Amaral (cahAmaral)	RM558012
